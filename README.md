@@ -16,13 +16,8 @@ Responsive Design: Optimized for mobile, tablet, and desktop.
 🛠️ Technologies Used <br>
 HTML5: Structure and layout.
 CSS3: Styling and responsiveness.
-<br>
-<br>
-📂 Project Structure
-<br>
-├── main/
-│   ├── images/           
-│   ├── style.css          
-│   ├── index.js          
-├── README.md
-└── package.json
+<br><br><br>
+
+
+-- This is My first Frontend Project---
+
